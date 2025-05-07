@@ -5,11 +5,7 @@ This repository contains my personal implementations and experiments on various 
 ## Tasks Covered
 
 - ✅ Tokenization
-- ✅ Text Classification
-- ✅ Sentiment Analysis
 - ✅ Named Entity Recognition (NER)
-- 🔜 Machine Translation
-- 🔜 Summarization
 
 ## Tools & Libraries
 
@@ -18,3 +14,4 @@ This repository contains my personal implementations and experiments on various 
 - Hugging Face Transformers
 - NLTK / spaCy
 - scikit-learn
+
