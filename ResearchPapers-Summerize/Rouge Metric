@@ -1,0 +1,4 @@
+ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a set of metrics used to evaluate automatic summarization and machine-generated texts by comparing them to human-written references. 
+It mainly measures the overlap of n-grams (ROUGE-N), the longest common subsequence (ROUGE-L), and skip-bigrams between the generated and reference texts. 
+Higher ROUGE scores indicate better quality. 
+ROUGE is especially common in tasks like summarization, translation, and text generation.
